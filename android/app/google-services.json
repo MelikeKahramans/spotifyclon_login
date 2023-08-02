@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "952552857504",
+    "project_id": "deneme-c4b98",
+    "storage_bucket": "deneme-c4b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952552857504:android:4b72c4c1b00a074ac90ec5",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952552857504-0p199jfiqff1secfsuk1liu7p766jbt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ulp-qFXSuaMALcWocrtpPmruZhtkal8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952552857504-0p199jfiqff1secfsuk1liu7p766jbt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952552857504:android:6ec7f2880c3b2dd9c90ec5",
+        "android_client_info": {
+          "package_name": "com.example.trylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952552857504-0p199jfiqff1secfsuk1liu7p766jbt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ulp-qFXSuaMALcWocrtpPmruZhtkal8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952552857504-0p199jfiqff1secfsuk1liu7p766jbt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
